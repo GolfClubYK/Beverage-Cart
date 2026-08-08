@@ -1,0 +1,365 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-08T17:39:33.882Z",
+  "updatedBy": "accounting@copperhouse.ca",
+  "PRODUCTS": [
+    {
+      "group": "Alcoholic Drinks",
+      "on": true,
+      "items": [
+        {
+          "name": "Kokanee (can)",
+          "price": 7.14,
+          "on": true
+        },
+        {
+          "name": "Alexander Keith's (can)",
+          "price": 7.14,
+          "on": true
+        },
+        {
+          "name": "Budweiser (can)",
+          "price": 7.14,
+          "on": true
+        },
+        {
+          "name": "Coors Light (can)",
+          "price": 7.14,
+          "on": true
+        },
+        {
+          "name": "NWT Brewing Tee Time (can)",
+          "price": 9.52,
+          "on": true
+        },
+        {
+          "name": "Corona Extra (can)",
+          "price": 8.57,
+          "on": true
+        },
+        {
+          "name": "Bud Light Tall (can)",
+          "price": 8.57,
+          "on": true
+        },
+        {
+          "name": "Mott's Clamato Caesar (can)",
+          "price": 8.57,
+          "on": true
+        },
+        {
+          "name": "Strongbow Cider (can)",
+          "price": 8.57,
+          "on": true
+        },
+        {
+          "name": "Twisted Tea (can)",
+          "price": 8.57,
+          "on": true
+        },
+        {
+          "name": "White Claw (can)",
+          "price": 8.57,
+          "on": true
+        },
+        {
+          "name": "Ole (can)",
+          "price": 8.57,
+          "on": true
+        },
+        {
+          "name": "Dillon's Gin Cocktail (can)",
+          "price": 8.57,
+          "on": true
+        },
+        {
+          "name": "Happy Dad's Fruit Punch (can)",
+          "price": 8.57,
+          "on": true
+        }
+      ]
+    },
+    {
+      "group": "Non-Alcoholic",
+      "on": true,
+      "items": [
+        {
+          "name": "Water (bottle)",
+          "price": 2.86,
+          "on": true
+        },
+        {
+          "name": "Gatorade Orange (bottle)",
+          "price": 4.29,
+          "on": true
+        },
+        {
+          "name": "Gatorade Red (bottle)",
+          "price": 4.29,
+          "on": true
+        },
+        {
+          "name": "Gatorade G2 Purple (bottle)",
+          "price": 4.29,
+          "on": true
+        },
+        {
+          "name": "Gatorade Zero Yellow (bottle)",
+          "price": 4.29,
+          "on": true
+        },
+        {
+          "name": "Gatorade Zero Blue (bottle)",
+          "price": 4.29,
+          "on": true
+        },
+        {
+          "name": "Corona Sunbrew 0% (bottle)",
+          "price": 4.29,
+          "on": true
+        },
+        {
+          "name": "Pepsi (bottle)",
+          "price": 3.81,
+          "on": true
+        },
+        {
+          "name": "Diet Pepsi (bottle)",
+          "price": 3.81,
+          "on": true
+        },
+        {
+          "name": "Ginger Ale (bottle)",
+          "price": 3.81,
+          "on": true
+        },
+        {
+          "name": "Iced Tea (bottle)",
+          "price": 3.81,
+          "on": true
+        },
+        {
+          "name": "Pepsi (mini can)",
+          "price": 2.38,
+          "on": true
+        },
+        {
+          "name": "Diet Pepsi (mini can)",
+          "price": 2.38,
+          "on": true
+        },
+        {
+          "name": "Tonic (mini can)",
+          "price": 2.38,
+          "on": true
+        },
+        {
+          "name": "Club Soda (mini can)",
+          "price": 2.38,
+          "on": true
+        },
+        {
+          "name": "Ginger Ale (mini can)",
+          "price": 2.38,
+          "on": true
+        },
+        {
+          "name": "Orange Juice (can)",
+          "price": 2.86,
+          "on": true
+        },
+        {
+          "name": "Apple Juice (can)",
+          "price": 2.86,
+          "on": true
+        },
+        {
+          "name": "Coffee",
+          "price": 2.86,
+          "on": true
+        }
+      ]
+    },
+    {
+      "group": "Snacks & Food",
+      "on": true,
+      "items": [
+        {
+          "name": "Oh Henry! Bar",
+          "price": 2.86,
+          "on": true
+        },
+        {
+          "name": "Mars Bar",
+          "price": 2.86,
+          "on": true
+        },
+        {
+          "name": "KitKat Bar",
+          "price": 2.86,
+          "on": true
+        },
+        {
+          "name": "Snickers Bar",
+          "price": 2.86,
+          "on": true
+        },
+        {
+          "name": "Lay's Classic",
+          "price": 3.81,
+          "on": true
+        },
+        {
+          "name": "Lay's Salt & Vinegar",
+          "price": 3.81,
+          "on": true
+        },
+        {
+          "name": "Lay's Barbecue",
+          "price": 3.81,
+          "on": true
+        },
+        {
+          "name": "Doritos Nachos",
+          "price": 3.81,
+          "on": true
+        },
+        {
+          "name": "Assorted Sandwiches",
+          "price": 12.38,
+          "on": true
+        },
+        {
+          "name": "Hot Dog",
+          "price": 5.71,
+          "on": true
+        }
+      ]
+    }
+  ],
+  "LIQUOR": [
+    {
+      "name": "Jose Cuervo Gold",
+      "price": 6.67,
+      "on": true,
+      "bottleSizeMl": 750,
+      "fullWeight": 1250,
+      "emptyWeight": 545
+    },
+    {
+      "name": "Patron Silver",
+      "price": 8.57,
+      "on": true,
+      "bottleSizeMl": 750,
+      "fullWeight": 1420,
+      "emptyWeight": 710
+    },
+    {
+      "name": "Bacardi White Rum",
+      "price": 6.67,
+      "on": true,
+      "bottleSizeMl": 750,
+      "fullWeight": 785,
+      "emptyWeight": 80
+    },
+    {
+      "name": "Captain Morgan's Spiced Rum",
+      "price": 6.67,
+      "on": true,
+      "bottleSizeMl": 750,
+      "fullWeight": 780,
+      "emptyWeight": 70
+    },
+    {
+      "name": "Smirnoff Vodka",
+      "price": 6.67,
+      "on": true,
+      "bottleSizeMl": 750,
+      "fullWeight": 770,
+      "emptyWeight": 65
+    },
+    {
+      "name": "Fireball Cinnamon Whisky",
+      "price": 6.67,
+      "on": true,
+      "bottleSizeMl": 750,
+      "fullWeight": 1310,
+      "emptyWeight": 540
+    },
+    {
+      "name": "Sambuca",
+      "price": 6.67,
+      "on": true,
+      "bottleSizeMl": 750,
+      "fullWeight": 1215,
+      "emptyWeight": 410
+    },
+    {
+      "name": "Sourpuss",
+      "price": 5.71,
+      "on": true,
+      "bottleSizeMl": 750,
+      "fullWeight": 1290,
+      "emptyWeight": 485
+    },
+    {
+      "name": "Crown Royal Whisky",
+      "price": 6.67,
+      "on": true,
+      "bottleSizeMl": 750,
+      "fullWeight": 1285,
+      "emptyWeight": 580
+    },
+    {
+      "name": "Bailey's Irish Cream",
+      "price": 6.67,
+      "on": true,
+      "bottleSizeMl": 750,
+      "fullWeight": 1215,
+      "emptyWeight": 420
+    }
+  ],
+  "SUPPLIES": [
+    "Moneris payment machine",
+    "Extra Moneris paper rolls",
+    "Shooter cups",
+    "Solo cups",
+    "Napkins",
+    "Plastic bin to keep chocolate bars dry",
+    "Shot measuring jigger"
+  ],
+  "USERS": [
+    {
+      "id": "u0",
+      "fullName": "Administrator",
+      "email": "accounting@copperhouse.ca",
+      "phone": "",
+      "password": "CH484rlr!@#$",
+      "active": true
+    },
+    {
+      "id": "u1",
+      "fullName": "Paul Henry",
+      "email": "paul@h2-solutions.ca",
+      "phone": "(867) 446-4357",
+      "password": "PH4357",
+      "active": true
+    }
+  ],
+  "REFRESH_PASS": "Refresh123",
+  "RECIPIENTS": [
+    "paul@copperhouse.ca",
+    "manager@copperhouse.ca",
+    "jassinokwal88@gmail.com"
+  ],
+  "MANAGERS": [
+    {
+      "name": "Golf Pro",
+      "pin": "5555",
+      "active": true
+    }
+  ],
+  "REQUIRE_MANAGER_APPROVAL": true,
+  "DRINK_TICKETS_ENABLED": false,
+  "ADMIN_EMAIL": "paul@h2-solutions.ca"
+}
