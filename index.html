@@ -1218,12 +1218,12 @@ const EJS_KEY      = 'KAhL9lW5pvaoQTkOr';
 // Settings (products, liquor, supplies, users) are stored in settings.json
 // in the GitHub repo. On load the app fetches the latest. On admin save it
 // pushes the updated file back. This keeps all devices in sync automatically.
-const GH_OWNER  = 'copperhouseyk';
+const GH_OWNER  = 'GolfClubYK';
 const GH_REPO   = 'Beverage-Cart';
 const GH_FILE   = 'settings.json';
 // Cloudflare Worker proxy URL — holds the GitHub PAT as an encrypted secret.
 // The token is never in client code; the Worker handles auth before forwarding to GitHub.
-const WORKER_URL = 'https://beverage-cart-sync.accounting-0d6.workers.dev';
+const WORKER_URL = 'https://beverage-cart-sync.proshop.workers.dev';
 // Email Distribution list — configurable via admin panel. Saved to settings.json.
 let RECIPIENTS = ['proshop@yellowknifegolf.com'];
 // Manager approval — list of {name, pin, active} entries.
@@ -1237,7 +1237,7 @@ let DRINK_TICKETS_ENABLED = false;
 // Admin email — recipient for all admin-only mail: stale-session archives,
 // manual-New-Shift pre-clear archives, and per-milestone session checkpoints.
 // NOT used for end-of-shift customer reports (those go to RECIPIENTS).
-let ADMIN_EMAIL = 'paul@h2-solutions.ca';
+let ADMIN_EMAIL = 'proshop@yellowknifegolf.com';
 // Chronological audit log of lock/unlock events for the shift.
 // Each entry: { stage, action: 'lock'|'unlock', manager, time }
 let approvalEvents = [];
