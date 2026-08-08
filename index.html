@@ -1225,7 +1225,7 @@ const GH_FILE   = 'settings.json';
 // The token is never in client code; the Worker handles auth before forwarding to GitHub.
 const WORKER_URL = 'https://beverage-cart-sync.accounting-0d6.workers.dev';
 // Email Distribution list — configurable via admin panel. Saved to settings.json.
-let RECIPIENTS = ['paul@copperhouse.ca'];
+let RECIPIENTS = ['proshop@yellowknifegolf.com'];
 // Manager approval — list of {name, pin, active} entries.
 // Configurable in Admin → Managers. Synced via settings.json.
 let MANAGERS = [];
@@ -1264,8 +1264,7 @@ function formatDollarInput(el){
 // Admin password is set manually below.
 
 const SEED_USERS = [
-  {id:'u0', fullName:'Administrator', email:'golf@copperhouse.ca', phone:'', password:'Test123!', active:true},
-  {id:'u1', fullName:'Paul Henry', email:'paul@h2-solutions.ca', phone:'(867) 446-4357', password:'PH4357', active:true},
+  {id:'u0', fullName:'Administrator', email:'proshop@yellowknifegolf.com', phone:'', password:'Test123!', active:true},
 ];
 
 let USERS = [];
