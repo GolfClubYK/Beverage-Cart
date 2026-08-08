@@ -332,25 +332,15 @@
     {
       "id": "u0",
       "fullName": "Administrator",
-      "email": "accounting@copperhouse.ca",
+      "email": "proshop@yellowknifegolf.com",
       "phone": "",
-      "password": "CH484rlr!@#$",
+      "password": "Golf123$",
       "active": true
-    },
-    {
-      "id": "u1",
-      "fullName": "Paul Henry",
-      "email": "paul@h2-solutions.ca",
-      "phone": "(867) 446-4357",
-      "password": "PH4357",
-      "active": true
-    }
+       }
   ],
   "REFRESH_PASS": "Refresh123",
   "RECIPIENTS": [
-    "paul@copperhouse.ca",
-    "manager@copperhouse.ca",
-    "jassinokwal88@gmail.com"
+    "proshop@yellowknifegolf.com"
   ],
   "MANAGERS": [
     {
